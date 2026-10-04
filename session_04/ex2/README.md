@@ -4,5 +4,3 @@
 
 Nội dung phiên bản feature-update.
 
-
-
